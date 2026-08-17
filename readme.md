@@ -25,4 +25,4 @@ python -m ipykernel install --user --name deeplearning
 | SN | Topic | Script |
 | --- | ---| ---|
 |1 | Introduction to Pytorch (with toy example) | [GO](pytorch_toy_example.ipynb) |
-
+|2 | Dataset splits, Overfit/Underfit and Dropout/L1/L2 regularization | [GO](overfit_underfit_regularization.ipynb) |

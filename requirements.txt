@@ -8,3 +8,4 @@ ipykernel
 
 # others
 matplotlib
+scikit-learn
