@@ -1,0 +1,10 @@
+# core lib
+torch
+numpy
+
+# for notebook
+jupyter
+ipykernel
+
+# others
+matplotlib

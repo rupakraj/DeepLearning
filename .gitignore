@@ -1,0 +1,10 @@
+# files
+*.pyc
+.env
+.out
+
+
+# directories
+__pycache__/
+.venv
+out
