@@ -29,6 +29,7 @@ python -m ipykernel install --user --name deeplearning
 |3 | Limitation of Gradient Descent | [GO](limitation_of_gradient.ipynb) |
 |4 | Adaptive Learning Rates: AdaGrad, RMSProp, Adam | [GO](adaptive_learning_rates.ipynb) |
 |5 | Why do we need CNNs? DNN limitations vs. Convolutions (FashionMNIST) | [GO](need_for_cnn.ipynb) |
+|6 | AlexNet: basic idea, architecture, building in PyTorch, and training on a small subset (CIFAR-10) | [GO](alexnet_image_classification.ipynb) |
 
 ---
 __Note__: This list will gradually grow.  Hopefully in 2-3 months :-)
