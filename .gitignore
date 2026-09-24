@@ -8,4 +8,7 @@
 __pycache__/
 .venv
 out
-data
+
+# datasets are downloaded, not committed -- except the tiny retrieval demo corpus
+data/*
+!data/retrieval/

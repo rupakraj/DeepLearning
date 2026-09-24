@@ -7,6 +7,9 @@ numpy
 jupyter
 ipykernel
 
+# for the embedding-retrieval notebook (frozen encoder)
+sentence-transformers>=5.0.0
+
 # others
 matplotlib
 scikit-learn
