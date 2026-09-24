@@ -32,6 +32,8 @@ python -m ipykernel install --user --name deeplearning
 |6 | AlexNet: basic idea, architecture, building in PyTorch, and training on a small subset (CIFAR-10) | [GO](alexnet_image_classification.ipynb) |
 |7 | Why do we need Batch Normalization? Training dynamics, learning-rate sensitivity, and internal covariate shift, for both an MLP and a CNN (FashionMNIST) | [GO](batch_normalization.ipynb) |
 |8 | Representation Learning: a simple autoencoder, reconstruction, visualizing the learned code, and transferring it to classification with very few labels (MNIST) | [GO](autoencoder_representation_learning.ipynb) |
+|9 | Word2Vec as an autoencoder: skip-gram encoder-decoder, nearest neighbours and a word map, and using the word vectors for document classification with few labels (20 Newsgroups) | [GO](word2vec_autoencoder.ipynb) |
+|10 | Embedding-based retrieval: a frozen EmbeddingGemma encoder, sentence embeddings in a Python dict, cosine nearest-neighbour search, keyword (TF-IDF) comparison and cross-lingual Nepali queries (news corpus) | [GO](embedding_retrieval.ipynb) |
 
 ---
 __Note__: This list will gradually grow.  Hopefully in 2-3 months :-)
