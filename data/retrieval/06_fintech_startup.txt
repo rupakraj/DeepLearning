@@ -1,0 +1,19 @@
+Kathmandu payments startup raises six million dollars
+
+A Kathmandu-based digital payments company has raised six million dollars from a Singapore investment fund, one of the largest rounds ever closed by a technology company registered in the country.
+
+The company operates a mobile wallet used by about four million people for utility bills, mobile top-ups, school fees and small merchant payments. It says roughly a third of its users are outside the three largest cities.
+
+Its fastest-growing product handles remittances from workers abroad, delivering money directly into the wallet instead of a bank account. Remittances are the largest single source of foreign currency for the economy.
+
+The founders started the company in a rented room in Jhamsikhel with four engineers and now employ two hundred and forty people, most of them software developers hired from local engineering colleges.
+
+Foreign investment in the sector has long been complicated by rules on currency conversion and profit repatriation, and the round took fourteen months to clear regulatory approval.
+
+The central bank has tightened requirements for payment service providers, raising minimum capital and requiring that customer funds be held in a separate escrow account. Smaller wallets have struggled to meet the threshold and two have merged in the past year.
+
+Interoperability rules introduced two years ago allow transfers between competing wallets and have cut the cost of small transfers, though merchants complain that settlement still takes a full working day.
+
+The company says the new capital will fund merchant lending, where a shop's transaction history is used to assess a small working-capital loan, a product that requires a separate licence still awaiting approval.
+
+Engineers here say the harder constraint is not capital but senior talent, as experienced developers are recruited quickly by firms abroad offering several times the local salary.
