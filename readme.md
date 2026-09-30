@@ -34,6 +34,8 @@ python -m ipykernel install --user --name deeplearning
 |8 | Representation Learning: a simple autoencoder, reconstruction, visualizing the learned code, and transferring it to classification with very few labels (MNIST) | [GO](autoencoder_representation_learning.ipynb) |
 |9 | Word2Vec as an autoencoder: skip-gram encoder-decoder, nearest neighbours and a word map, and using the word vectors for document classification with few labels (20 Newsgroups) | [GO](word2vec_autoencoder.ipynb) |
 |10 | Embedding-based retrieval: a frozen EmbeddingGemma encoder, sentence embeddings in a Python dict, cosine nearest-neighbour search, keyword (TF-IDF) comparison and cross-lingual Nepali queries (news corpus) | [GO](embedding_retrieval.ipynb) |
+|11 | Why do we need sequence models? Truncation, padding and averaging (bag of words / frames) vs. a pure recurrent model (GRU) on variable-length text and speech | [GO](need_for_sequence_models.ipynb) |
+|12 | Neural N-Gram language model (Bengio et al., 2003): count-based trigram vs. neural trigram, unseen contexts, next-word prediction, text generation, learned embeddings and the fixed-window limitation (toy corpus) | [GO](neural_ngram_language_model.ipynb) |
 
 ---
 __Note__: This list will gradually grow.  Hopefully in 2-3 months :-)
