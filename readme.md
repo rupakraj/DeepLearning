@@ -37,5 +37,11 @@ python -m ipykernel install --user --name deeplearning
 |11 | Why do we need sequence models? Truncation, padding and averaging (bag of words / frames) vs. a pure recurrent model (GRU) on variable-length text and speech | [GO](need_for_sequence_models.ipynb) |
 |12 | Neural N-Gram language model (Bengio et al., 2003): count-based trigram vs. neural trigram, unseen contexts, next-word prediction, text generation, learned embeddings and the fixed-window limitation (toy corpus) | [GO](neural_ngram_language_model.ipynb) |
 
+
+
+## Representation Learning
+The Encoder/Decoder model related notebooks are in [Rep-Learning](rep-learning) directory.
+
+
 ---
 __Note__: This list will gradually grow.  Hopefully in 2-3 months :-)
