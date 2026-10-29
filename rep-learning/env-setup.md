@@ -45,7 +45,7 @@ Then run the notebooks in order. They write to `outputs/`.
 
 Colab already has the packages. Each notebook runs on its own machine, so keep the repo on Google Drive so that `outputs/` from notebook 1 is there for notebook 2.
 
-Note: For quick test use/run the merged notebook: [Merged Notebook](building_embedding.ipynb)
+Note: For quick test use/run the merged notebook: [Merged Notebook](https://colab.research.google.com/github/rupakraj/DeepLearning/blob/main/rep-learning/building_embedding.ipynb)
 
 
 1. Open a notebook:
