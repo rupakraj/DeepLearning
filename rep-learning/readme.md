@@ -2,13 +2,6 @@
 
 Turn every customer in a CRM table into a vector with an Encoder–Decoder, then search customers with plain English.
 
-## Setup
-
-```bash
-python -m venv .venv
-source ./.venv/bin/activate       # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
 
 ## The problem
 
@@ -164,6 +157,18 @@ $$
 
 After training, the weights are saved to `outputs/model.pt` and loaded back for searching.
 
+
+## Setup
+
+```bash
+python -m venv venv
+source venv/bin/activate          # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+For GPU, Jupyter kernel, data and Google Colab, see [env-setup.md](env-setup.md).
+
+
 ## Notebooks
 
 Run them in order.
@@ -172,3 +177,4 @@ Run them in order.
 | --- | --- | --- |
 | 1 | [Dataset preparation](01_dataset_preparation.ipynb) | Turn categories, numbers, dates and text into model input |
 | 2 | [Model and training](02_model_and_training.ipynb) | Train the Encoder–Decoder, save it, and search with it |
+| 3 | [Merged (Dataset + Model)](building_embedding.ipynb) | Merge of (1) and (2) notebook |
